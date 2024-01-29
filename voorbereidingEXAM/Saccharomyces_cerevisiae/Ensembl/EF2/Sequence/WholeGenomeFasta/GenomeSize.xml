@@ -1,0 +1,20 @@
+<sequenceSizes genomeName="Saccharomyces cerevisiae (Ensembl EF2)">
+	<chromosome fileName="genome.fa" contigName="2-micron" totalBases="6318" isCircular="false" md5="4fce2daa1d5b988f7b1c3f85a72f0561" ploidy="2" knownBases="6318" />
+	<chromosome fileName="genome.fa" contigName="I" totalBases="230208" isCircular="false" md5="2effd4adbf700613e3749c0c4ef5ce18" ploidy="2" knownBases="230208" />
+	<chromosome fileName="genome.fa" contigName="II" totalBases="813178" isCircular="false" md5="672ccac60edc61550caa540019ada6fa" ploidy="2" knownBases="813178" />
+	<chromosome fileName="genome.fa" contigName="III" totalBases="316617" isCircular="false" md5="7728abd795a836a28ac5302a822ae3bf" ploidy="2" knownBases="316617" />
+	<chromosome fileName="genome.fa" contigName="IV" totalBases="1531919" isCircular="false" md5="7bc10eeecdbf1c181dcdcdc753601c57" ploidy="2" knownBases="1531919" />
+	<chromosome fileName="genome.fa" contigName="IX" totalBases="439885" isCircular="false" md5="2fd34473d35a98406b22cf1acc7e4272" ploidy="2" knownBases="439885" />
+	<chromosome fileName="genome.fa" contigName="MT" totalBases="85779" isCircular="false" md5="71c39cf065b8d574f636b654c274cf1b" ploidy="2" knownBases="85779" />
+	<chromosome fileName="genome.fa" contigName="V" totalBases="576869" isCircular="false" md5="2b9aeb682e653932db18aa15141a894f" ploidy="2" knownBases="576869" />
+	<chromosome fileName="genome.fa" contigName="VI" totalBases="270148" isCircular="false" md5="4f082ebb0ff6891de0977a44b979a828" ploidy="2" knownBases="270148" />
+	<chromosome fileName="genome.fa" contigName="VII" totalBases="1090947" isCircular="false" md5="59b012e1e2af76cda86349ab4170189d" ploidy="2" knownBases="1090947" />
+	<chromosome fileName="genome.fa" contigName="VIII" totalBases="562643" isCircular="false" md5="d666bf2e0615bfaea40d4e28f50a7407" ploidy="2" knownBases="562643" />
+	<chromosome fileName="genome.fa" contigName="X" totalBases="745741" isCircular="false" md5="cbcd77d72af506742a50e737b2702078" ploidy="2" knownBases="745741" />
+	<chromosome fileName="genome.fa" contigName="XI" totalBases="666454" isCircular="false" md5="fcb8b3e717b6b60cafa9e4f695ff7fd9" ploidy="2" knownBases="666454" />
+	<chromosome fileName="genome.fa" contigName="XII" totalBases="1078175" isCircular="false" md5="e3671a75d26be1bd238fca7603aeb1c7" ploidy="2" knownBases="1078175" />
+	<chromosome fileName="genome.fa" contigName="XIII" totalBases="924429" isCircular="false" md5="bd7749aa603a68c807c4b5eaa92bb797" ploidy="2" knownBases="924429" />
+	<chromosome fileName="genome.fa" contigName="XIV" totalBases="784334" isCircular="false" md5="baeec8552a02417a3d6e793a819f32dd" ploidy="2" knownBases="784334" />
+	<chromosome fileName="genome.fa" contigName="XV" totalBases="1091289" isCircular="false" md5="b851ae530640b418070c789fa2e93c32" ploidy="2" knownBases="1091289" />
+	<chromosome fileName="genome.fa" contigName="XVI" totalBases="948062" isCircular="false" md5="2e4064f6a9abf2a34ab64e37149875fb" ploidy="2" knownBases="948062" />
+</sequenceSizes>
